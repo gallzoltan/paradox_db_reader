@@ -1,0 +1,4 @@
+/.venv/
+/KDB/
+*.xlsx
+*.db
